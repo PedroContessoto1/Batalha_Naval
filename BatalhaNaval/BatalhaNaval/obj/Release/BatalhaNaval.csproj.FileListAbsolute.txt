@@ -1,0 +1,9 @@
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\bin\Release\BatalhaNaval.exe.config
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\bin\Release\BatalhaNaval.exe
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\bin\Release\BatalhaNaval.pdb
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Release\BatalhaNaval.Form1.resources
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Release\BatalhaNaval.Properties.Resources.resources
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Release\BatalhaNaval.csproj.GenerateResource.cache
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Release\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Release\BatalhaNaval.exe
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Release\BatalhaNaval.pdb
