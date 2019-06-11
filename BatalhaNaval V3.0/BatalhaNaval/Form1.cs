@@ -30,7 +30,6 @@ namespace BatalhaNaval
         int n1 = 0;
         int vez = 0;
 
-
         int tiro_inteligenteint = 0;
 
         int cornenada = 0;
