@@ -1,0 +1,53 @@
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.Form1.resources
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.Properties.Resources.resources
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.GenerateResource.cache
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+C:\Users\jocke\source\repos\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csprojAssemblyReference.cache
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csprojAssemblyReference.cache
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.Form1.resources
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.Properties.Resources.resources
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.GenerateResource.cache
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+C:\Users\Pimenta\OneDrive\PUCPR\1º Período\Experiência\BatalhaNavalFinalizado\BatalhaNaval\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\obj\Debug\BatalhaNaval.csprojAssemblyReference.cache
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\obj\Debug\BatalhaNaval.Form1.resources
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\obj\Debug\BatalhaNaval.Properties.Resources.resources
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\obj\Debug\BatalhaNaval.Resource1.resources
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.GenerateResource.cache
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+C:\Users\Allan\Desktop\BatalhaNaval V.2\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\obj\Debug\BatalhaNaval.csprojAssemblyReference.cache
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\obj\Debug\BatalhaNaval.Form1.resources
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\obj\Debug\BatalhaNaval.Properties.Resources.resources
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\obj\Debug\BatalhaNaval.Resource1.resources
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.GenerateResource.cache
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+E:\puc\xp_criativa\visual studio\BatalhaNaval V2.5\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\bin\Debug\BatalhaNaval.exe.config
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\bin\Debug\BatalhaNaval.exe
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\bin\Debug\BatalhaNaval.pdb
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\obj\Debug\BatalhaNaval.csprojAssemblyReference.cache
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\obj\Debug\BatalhaNaval.Form1.resources
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\obj\Debug\BatalhaNaval.Properties.Resources.resources
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\obj\Debug\BatalhaNaval.Resource1.resources
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.GenerateResource.cache
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\obj\Debug\BatalhaNaval.csproj.CoreCompileInputs.cache
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\obj\Debug\BatalhaNaval.exe
+E:\puc\xp_criativa\visual studio\BatalhaNaval V3.0\BatalhaNaval\obj\Debug\BatalhaNaval.pdb
